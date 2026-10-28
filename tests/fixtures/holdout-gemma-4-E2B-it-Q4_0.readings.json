@@ -1,0 +1,67 @@
+{
+ "ADOBE *CREATIVE CLD 408-536-6000": {
+  "kind": "other",
+  "merchant": "Adobe",
+  "quote": "<<<ADOBE *CREATIVE CLD 408-536-6000>>>"
+ },
+ "ADOBE INC. 800-833-6687 CA": {
+  "kind": "other",
+  "merchant": "Adobe Inc.",
+  "quote": "<<<ADOBE INC. 800-833-6687 CA>>>"
+ },
+ "AMAZON.COM*RT4Q1 AMZN.COM/BILL": {
+  "kind": "shopping_or_food",
+  "merchant": "Amazon",
+  "quote": "<<<AMAZON.COM*RT4Q1 AMZN.COM/BILL>>>"
+ },
+ "DBX*DROPBOX PLUS SAN FRANCISCO": {
+  "kind": "subscription_or_membership",
+  "merchant": "Dropbox Plus",
+  "quote": "<<<DBX*DROPBOX PLUS SAN FRANCISCO>>>"
+ },
+ "DISNEY PLUS 888-905-7888 CA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Disney Plus",
+  "quote": "<<<DISNEY PLUS 888-905-7888 CA>>>"
+ },
+ "DISNEYPLUS BURBANK CA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Disney Plus",
+  "quote": "<<<DISNEYPLUS BURBANK CA>>>"
+ },
+ "DOORDASH*THAI HOUSE": {
+  "kind": "shopping_or_food",
+  "merchant": "DoorDash",
+  "quote": "<<<DOORDASH*THAI HOUSE>>>"
+ },
+ "DROPBOX*7GH2K9 DROPBOX.COM CA": {
+  "kind": "shopping_or_food",
+  "merchant": "Dropbox",
+  "quote": "<<<DROPBOX*7GH2K9 DROPBOX.COM CA>>>"
+ },
+ "GOOGLE *YOUTUBE PREMIUM": {
+  "kind": "subscription_or_membership",
+  "merchant": "Youtube Premium",
+  "quote": "<<<GOOGLE *YOUTUBE PREMIUM>>>"
+ },
+ "GOOGLE *YouTubePremium g.co/helppay#": {
+  "kind": "subscription_or_membership",
+  "merchant": "YouTube Premium",
+  "quote": "<<<GOOGLE *YouTubePremium g.co/helppay#>>>"
+ },
+ "LYFT *RIDE SUN 4PM": {
+  "kind": "shopping_or_food",
+  "merchant": "Lyft",
+  "quote": "<<<LYFT *RIDE SUN 4PM>>>"
+ },
+ "SAFEWAY 1820": {
+  "kind": "shopping_or_food",
+  "merchant": "Safeway",
+  "quote": "<<<SAFEWAY 1820>>>"
+ },
+ "WALGREENS #4411": {
+  "kind": "shopping_or_food",
+  "merchant": "Walgreens",
+  "quote": "<<<WALGREENS #4411>>>"
+ }
+}

@@ -1,0 +1,13 @@
+name: test
+on: [push, pull_request]
+permissions: { contents: read }
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - run: python3 --version && python3 -m unittest discover -s tests -v
+      - name: recorded Gemma 4 readings find every subscription with zero false alarms
+        run: |
+          python3 eval/score.py samples/bank.csv samples/truth.json tests/fixtures/gemma-4-E2B-it-Q4_0.readings.json
+          python3 eval/score.py samples/holdout/bank.csv samples/holdout/truth.json tests/fixtures/holdout-gemma-4-E2B-it-Q4_0.readings.json

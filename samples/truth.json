@@ -1,0 +1,53 @@
+{
+ "as_of": "2026-10-28",
+ "subscriptions": {
+  "Netflix": {
+   "cadence": "monthly",
+   "flags": [
+    "price_up"
+   ],
+   "active": true
+  },
+  "Spotify": {
+   "cadence": "monthly",
+   "flags": [],
+   "active": true
+  },
+  "Ironworks Gym": {
+   "cadence": "monthly",
+   "flags": [],
+   "active": true
+  },
+  "Hulu": {
+   "cadence": "monthly",
+   "flags": [],
+   "active": false
+  },
+  "Canva": {
+   "cadence": "monthly",
+   "flags": [
+    "trial_converted"
+   ],
+   "active": true
+  },
+  "Apple": {
+   "cadence": "monthly",
+   "flags": [
+    "double_charge"
+   ],
+   "active": true
+  },
+  "Amazon Prime": {
+   "cadence": "annual",
+   "flags": [
+    "renews_soon"
+   ],
+   "active": true
+  },
+  "New York Times": {
+   "cadence": "weekly",
+   "flags": [],
+   "active": true
+  }
+ }
+}

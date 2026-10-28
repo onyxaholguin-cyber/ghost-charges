@@ -1,0 +1,147 @@
+{
+ "AMAZON PRIME*1A2B3C4D5 AMZN.COM/BILL WA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Amazon Prime",
+  "quote": "<<<AMAZON PRIME*1A2B3C4D5 AMZN.COM/BILL WA>>>"
+ },
+ "AMAZON PRIME*9Z8Y7X6W5 AMZN.COM/BILL WA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Amazon Prime",
+  "quote": "<<<AMAZON PRIME*9Z8Y7X6W5 AMZN.COM/BILL WA>>>"
+ },
+ "AMZN Mktp US*2K45L7 AMZN.COM/BILL": {
+  "kind": "shopping_or_food",
+  "merchant": "Amazon",
+  "quote": "<<<AMZN Mktp US*2K45L7 AMZN.COM/BILL>>>"
+ },
+ "APPLE.COM/BILL 866-712-7753 CA": {
+  "kind": "shopping_or_food",
+  "merchant": "Apple",
+  "quote": "<<<APPLE.COM/BILL 866-712-7753 CA>>>"
+ },
+ "CANVA* 0461234567 PRO TRIAL": {
+  "kind": "subscription_or_membership",
+  "merchant": "Canva",
+  "quote": "<<<CANVA* 0461234567 PRO TRIAL>>>"
+ },
+ "CANVA* I04-5551234 SYDNEY": {
+  "kind": "shopping_or_food",
+  "merchant": "Canva",
+  "quote": "<<<CANVA* I04-5551234 SYDNEY>>>"
+ },
+ "CHIPOTLE 2291 TEMPE AZ": {
+  "kind": "shopping_or_food",
+  "merchant": "Chipotle",
+  "quote": "<<<CHIPOTLE 2291 TEMPE AZ>>>"
+ },
+ "COSTCO WHSE #0441": {
+  "kind": "shopping_or_food",
+  "merchant": "Costco",
+  "quote": "<<<COSTCO WHSE #0441>>>"
+ },
+ "HOME DEPOT #1505": {
+  "kind": "shopping_or_food",
+  "merchant": "Home Depot",
+  "quote": "<<<HOME DEPOT #1505>>>"
+ },
+ "HULU 877-8244858 CA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Hulu",
+  "quote": "<<<HULU 877-8244858 CA>>>"
+ },
+ "KING SOOPERS #0123 PORTLAND OR": {
+  "kind": "shopping_or_food",
+  "merchant": "King Soopers",
+  "quote": "<<<KING SOOPERS #0123 PORTLAND OR>>>"
+ },
+ "NETFLIX COM LOS GATOS CA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Netflix",
+  "quote": "<<<NETFLIX COM LOS GATOS CA>>>"
+ },
+ "NETFLIX.COM 866-579-7172 CA": {
+  "kind": "subscription_or_membership",
+  "merchant": "Netflix",
+  "quote": "<<<NETFLIX.COM 866-579-7172 CA>>>"
+ },
+ "NYTIMES*NYTDIGITAL 800-698-4637 NY": {
+  "kind": "other",
+  "merchant": "New York Times",
+  "quote": "<<<NYTIMES*NYTDIGITAL 800-698-4637 NY>>>"
+ },
+ "PAYPAL *SPOTIFYUSA 4029357733": {
+  "kind": "subscription_or_membership",
+  "merchant": "Spotify",
+  "quote": "<<<PAYPAL *SPOTIFYUSA 4029357733>>>"
+ },
+ "SHELL OIL 57442 DAYTON OH": {
+  "kind": "shopping_or_food",
+  "merchant": "Shell Oil",
+  "quote": "<<<SHELL OIL 57442 DAYTON OH>>>"
+ },
+ "SQ *BLUE STAR COFFEE": {
+  "kind": "shopping_or_food",
+  "merchant": "Blue Star Coffee",
+  "quote": "<<<SQ *BLUE STAR COFFEE>>>"
+ },
+ "SQ *IRONWORKS GYM 1201 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 1201 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 1708 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 1708 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 2841 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 2841 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 2842 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 2842 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 3272 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 3272 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 3307 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 3307 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 7436 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 7436 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 8693 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 8693 AUSTIN TX>>>"
+ },
+ "SQ *IRONWORKS GYM 9768 AUSTIN TX": {
+  "kind": "other",
+  "merchant": "Ironworks Gym",
+  "quote": "<<<SQ *IRONWORKS GYM 9768 AUSTIN TX>>>"
+ },
+ "TARGET 00012345 RALEIGH NC": {
+  "kind": "shopping_or_food",
+  "merchant": "Target",
+  "quote": "<<<TARGET 00012345 RALEIGH NC>>>"
+ },
+ "UBER *TRIP HELP.UBER.COM": {
+  "kind": "transfer_or_payment_app",
+  "merchant": "Uber",
+  "quote": "<<<UBER *TRIP HELP.UBER.COM>>>"
+ },
+ "VENMO PAYMENT 1023456": {
+  "kind": "transfer_or_payment_app",
+  "merchant": "Venmo",
+  "quote": "<<<VENMO PAYMENT 1023456>>>"
+ }
+}

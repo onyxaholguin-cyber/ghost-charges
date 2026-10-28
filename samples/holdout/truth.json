@@ -1,0 +1,29 @@
+{
+ "as_of": "2026-10-28",
+ "subscriptions": {
+  "Disney Plus": {
+   "cadence": "monthly",
+   "flags": [],
+   "active": true
+  },
+  "Adobe": {
+   "cadence": "monthly",
+   "flags": [
+    "price_up"
+   ],
+   "active": true
+  },
+  "YouTube Premium": {
+   "cadence": "monthly",
+   "flags": [],
+   "active": false
+  },
+  "Dropbox": {
+   "cadence": "annual",
+   "flags": [
+    "renews_soon"
+   ],
+   "active": true
+  }
+ }
+}

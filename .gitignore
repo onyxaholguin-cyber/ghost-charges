@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ghost-charges-out/
+*.gguf
+.env
+private/
+*.private.csv
